@@ -1,4 +1,4 @@
-Analytical solution for a moving heat source points can be of the following form:
+Analytical solution for a moving heat source points can be written in the following form:
 
 ![equation](figures/equation.png)
 
